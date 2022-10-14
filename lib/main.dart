@@ -71,7 +71,7 @@ class MyId extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                   letterSpacing: 2.0
               ) ,),
-            
+
             SizedBox(height: 30.0,),
             Row(
               children: [
